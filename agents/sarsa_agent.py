@@ -20,7 +20,6 @@ class SARSAAgent():
         self.previous_action_id = None
         self.recent_action_id = 0
         self.q_values = self._init_q_values()
-        self.is_share = False
 
     def _init_q_values(self):
         """

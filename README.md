@@ -12,3 +12,6 @@ git clone https://github.com/tocom242242/sarsa_ql_in_cliffgridworld.git
 ```
 python run.py
 ```
+
+## blog
+https://www.tcom242242.net/entry/2019/04/04/184929
